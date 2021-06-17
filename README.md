@@ -7,3 +7,4 @@ My name is Kitty! I am a full stack software engineer.
 
 :pencil: I’m currently learning Typescript and how to implement Storybook stories into my components.
 
+:hamburger: Aside from coding, I enjoy cooking and trying new cafes / restaurants.
